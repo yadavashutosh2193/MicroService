@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: RATING-SERVICE-U
-
 
 eureka:
   instance:
